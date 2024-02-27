@@ -2,7 +2,7 @@ En este laboratorio debe construir un modelo predictivo de clasificación para
 la identificación de hongos venenosos. La base de datos contiene 8124 
 instancias de hongos provenientes de 23 especies de la familia Agaricus y 
 Lepiota, los cuales han sido clasificados como comestibles, venenosos o de 
-comestibilidad indeterminada. Por el tipo de problema en cuestión, los hongos de 
+comestibilidad indeterminada (la letra 't' en la columna 'type' indica venenoso). Por el tipo de problema en cuestión, los hongos de 
 comestibilidad desconocida deben ser asignados a la clase de hongos venenosos, 
 ya que no se puede correr el riesgo de dar un hongo potencialmente venenoso a 
 una persona para su consumo.
